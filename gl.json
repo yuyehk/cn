@@ -1,0 +1,186 @@
+{
+    "color": {
+        "default": {
+            "bg": "#FFDA5E",
+            "text": "black"
+        },
+        "programming": {
+            "bg": "skyblue",
+            "text": "white"
+        }
+    },
+    "sites": {
+        "https://detail.tmall.com/item.htm*": [
+            {
+                "str": "361度官方旗舰店",
+                "title": "361度官方旗舰店"
+            },
+            {
+                "str": "效率",
+                "title": "Work"
+            },
+            {
+                "str": "也谈钱",
+                "title": "Let's talk about money"
+            }
+        ],
+        "https://toutiao.io/*": [
+            {
+                "str": "react",
+                "title": "Javascript framework",
+                "type": "programming"
+            },
+            {
+                "str": "vue",
+                "title": "Javascript framework",
+                "type": "programming"
+            },
+            {
+                "str": "eos",
+                "title": "One of the modern blockchain",
+                "type": "programming"
+            },
+            {
+                "str": "智能合约",
+                "title": "Blockchain application",
+                "type": "programming"
+            },
+            {
+                "str": "python",
+                "title": "Javascript framework",
+                "type": "programming"
+            },
+            {
+                "str": "DDD",
+                "title": "Architecture of sofware",
+                "type": "programming"
+            },
+            {
+                "str": "领域驱动设计",
+                "title": "Architecture of sofware",
+                "type": "programming"
+            },
+            {
+                "str": "Docker",
+                "title": "Software deployment",
+                "type": "programming"
+            }
+        ],
+        "https://hyperledger-fabric.readthedocs.io/en/release-1.4/*": [
+            {
+                "str": "CHFA Domains & Competencies",
+                "title": "chaincode"
+            },
+            {
+                "str": "CHFA Domains & Competencies",
+                "title": "endorsement"
+            },
+            {
+                "str": "endorsement",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "policy",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "private data",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "world state",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "ordering service",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "multi-org configuration",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "hyperledger fabric containers",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "network config",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "tls",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "genesis block",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "service discovery",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "peer logs",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "ca logs",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "Orderer logs",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "chaincode logs",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "acl",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "create identity",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "revoke identity",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "hyperledger fabric ca",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "hardware security module",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "add peer",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "create channel",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "add to channel",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "update channel",
+                "title": "CHFA Domains & Competencies"
+            },
+            {
+                "str": "update hyperledger fabric instance",
+                "title": "CHFA Domains & Competencies"
+            }
+        ],
+        ".*": [
+            {
+                "str": "interesting",
+                "title": "区块链"
+            }
+        ]
+    }
+}
